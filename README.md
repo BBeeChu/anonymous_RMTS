@@ -43,7 +43,7 @@ pandas
 accelerate
 ```
 
-### How to Run (Evaluator: GPT-3.5-Turbo / Dimension: Coherence)
+### How to Run 
 <pre>
 pip install -r requirements.txt
 python main.py --model_name t5-base
